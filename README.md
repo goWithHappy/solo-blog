@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [2020年8月上旬计划与安排](https://www.vcjmhg.top/2020-8-plan1)
 * [语义分割之deeplab v3+](https://www.vcjmhg.top/deeplabv3+)
 * [语义分割之deeplab v3](https://www.vcjmhg.top/deeplabv3)
 * [语义分割之deeplab v1](https://www.vcjmhg.top/deeplabv1)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [修改commit记录的常用方法](https://www.vcjmhg.top/change-commit)
 * [从零到PR](https://www.vcjmhg.top/firt-pull-request)
 * [2020年5月计划安排](https://www.vcjmhg.top/2020-5-plan)
-* [计算机中存储体系的设计](https://www.vcjmhg.top/how-to-design-storage-hierarchy)
 
 ### 热门
 
@@ -75,6 +75,7 @@ vcjmhg 的个人博客
 * [使用frp搭建内网穿透服务](https://www.vcjmhg.top/learn-frp)
 * [如何在markdown文档中插入emoji表情？](https://www.vcjmhg.top/write-emoji-with-markdown)
 * [哈佛大学公开课《幸福课》笔记](https://www.vcjmhg.top/the-course-of-happiness)
+* [计算机中存储体系的设计](https://www.vcjmhg.top/how-to-design-storage-hierarchy)
 
 ---
 
