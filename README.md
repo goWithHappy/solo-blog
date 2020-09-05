@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [2020年9月上旬计划与安排](https://www.vcjmhg.top/2020-9-plan1)
 * [dccker-maven插件出现"Failed to execute goal com.spotifydocker-maven-plugin0.4.13build....java.io.IOException Permission denied"错误](https://www.vcjmhg.top/solve-docker-maven-permission-deny)
 * [deeplab v3+在pascal_voc 2012数据集上进行训练](https://www.vcjmhg.top/train-deeplabv3-puls-with-pascal-voc-2012)
 * [2020年8月下旬计划与安排](https://www.vcjmhg.top/2020-8-plan2)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [SkyWalking调试环境搭建](https://www.vcjmhg.top/build-dev-env-for-skywalking)
 * [在windows上搭建SkyWalking](https://www.vcjmhg.top/build-skywalking-in-windows)
 * [多元线性回归解决机器学习问题的一般方法](https://www.vcjmhg.top/how-to-use-LR)
-* [六月份上旬的规划与思考](https://www.vcjmhg.top/2020-6-plan1)
 
 ### 热门
 
