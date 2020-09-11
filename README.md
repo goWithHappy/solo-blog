@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [sunday算法解决字符串匹配问题](https://www.vcjmhg.top/sunday)
 * [leetcode第28题实现strStr()](https://www.vcjmhg.top/leetcode-28)
 * [2020年9月上旬计划与安排](https://www.vcjmhg.top/2020-9-plan1)
 * [dccker-maven插件出现"Failed to execute goal com.spotifydocker-maven-plugin0.4.13build....java.io.IOException Permission denied"错误](https://www.vcjmhg.top/solve-docker-maven-permission-deny)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [2020年6月下旬计划安排](https://www.vcjmhg.top/2020-6-16-plan2)
 * [PCA降维以及维数的确定](https://www.vcjmhg.top/how-to-use-pca)
 * [SkyWalking调试环境搭建](https://www.vcjmhg.top/build-dev-env-for-skywalking)
-* [在windows上搭建SkyWalking](https://www.vcjmhg.top/build-skywalking-in-windows)
 
 
 
