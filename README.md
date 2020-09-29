@@ -10,6 +10,8 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [解决fcitx输入法在Intellij IDEA开发工具中输入法候选框无法跟随光标移动的问题](https://www.vcjmhg.top/fcitx-not-work-in-idea)
+* [使用deeplabv3+训练自己数据集（迁移学习）](https://www.vcjmhg.top/train-own-data-wtih-deeplav3plus)
 * [sunday算法解决字符串匹配问题](https://www.vcjmhg.top/sunday)
 * [leetcode第28题实现strStr()](https://www.vcjmhg.top/leetcode-28)
 * [2020年9月上旬计划与安排](https://www.vcjmhg.top/2020-9-plan1)
@@ -28,8 +30,6 @@ vcjmhg 的个人博客
 * [致程序员陈学新的吐槽](https://www.vcjmhg.top/to-chenxuexin)
 * [SpringBoot初探：创建运行与文件说明](https://www.vcjmhg.top/hello-spring-boot)
 * [2020年6月下旬计划安排](https://www.vcjmhg.top/2020-6-16-plan2)
-* [PCA降维以及维数的确定](https://www.vcjmhg.top/how-to-use-pca)
-* [SkyWalking调试环境搭建](https://www.vcjmhg.top/build-dev-env-for-skywalking)
 
 
 
