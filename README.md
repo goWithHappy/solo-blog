@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [链表问题一些常用的套路与方法](https://www.vcjmhg.top/some-methods-of-linklist)
 * [如何编写一个SkyWalking 插件](https://www.vcjmhg.top/how-to-develop-a-plugin-for-skywalking)
 * [2020年10月上旬计划安排](https://www.vcjmhg.top/2020-10-plan1)
 * [解决fcitx输入法在Intellij IDEA开发工具中输入法候选框无法跟随光标移动的问题](https://www.vcjmhg.top/fcitx-not-work-in-idea)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [浅议Sort算法（目标体识别）](https://www.vcjmhg.top/simple-object-online-tracing)
 * [2020年7月上旬计划安排](https://www.vcjmhg.top/2020-7-plan1)
 * [记录一次博客被人恶意复制以及应对的过程](https://www.vcjmhg.top/deal-the-problem-of-copy-site)
-* [致程序员陈学新的吐槽](https://www.vcjmhg.top/to-chenxuexin)
 
 
 
