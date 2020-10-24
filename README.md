@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [BFS与DFS套路总结](https://www.vcjmhg.top/dfs-bfs)
 * [2020年10月下旬计划与安排](https://www.vcjmhg.top/2020-10-plan2)
 * [链表问题一些常用的套路与方法](https://www.vcjmhg.top/some-methods-of-linklist)
 * [如何编写一个SkyWalking 插件](https://www.vcjmhg.top/how-to-develop-a-plugin-for-skywalking)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [2020年7月下旬计划与安排](https://www.vcjmhg.top/2020-7-plan2)
 * [deepsort算法的原理与代码解析](https://www.vcjmhg.top/deepsort)
 * [浅议Sort算法（目标体识别）](https://www.vcjmhg.top/simple-object-online-tracing)
-* [2020年7月上旬计划安排](https://www.vcjmhg.top/2020-7-plan1)
 
 
 
