@@ -10,6 +10,8 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [二分查找及其应用](https://www.vcjmhg.top/binary-search)
+* [常见的位操作及其应用](https://www.vcjmhg.top/bit-operation)
 * [二叉树遍历的常用方法](https://www.vcjmhg.top/biTree-traverse)
 * [BFS与DFS套路总结](https://www.vcjmhg.top/dfs-bfs)
 * [2020年10月下旬计划与安排](https://www.vcjmhg.top/2020-10-plan2)
@@ -28,8 +30,6 @@ vcjmhg 的个人博客
 * [语义分割之deeplab v3+](https://www.vcjmhg.top/deeplabv3+)
 * [语义分割之deeplab v3](https://www.vcjmhg.top/deeplabv3)
 * [语义分割之deeplab v1](https://www.vcjmhg.top/deeplabv1)
-* [2020年7月下旬计划与安排](https://www.vcjmhg.top/2020-7-plan2)
-* [deepsort算法的原理与代码解析](https://www.vcjmhg.top/deepsort)
 
 
 
