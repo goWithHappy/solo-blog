@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [贪心算法原理及其应用](https://www.vcjmhg.top/greedy-algorithm)
 * [视频语义分割基准数据集与评估方法](https://www.vcjmhg.top/dataset-for-video-segmentation)
 * [二分查找及其应用](https://www.vcjmhg.top/binary-search)
 * [常见的位操作及其应用](https://www.vcjmhg.top/bit-operation)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [2020年8月下旬计划与安排](https://www.vcjmhg.top/2020-8-plan2)
 * [2020年8月上旬计划与安排](https://www.vcjmhg.top/2020-8-plan1)
 * [语义分割之deeplab v3+](https://www.vcjmhg.top/deeplabv3+)
-* [语义分割之deeplab v3](https://www.vcjmhg.top/deeplabv3)
 
 
 
