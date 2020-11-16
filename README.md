@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [滑动窗口常用技巧总结](https://www.vcjmhg.top/slide-window)
 * [贪心算法原理及其应用](https://www.vcjmhg.top/greedy-algorithm)
 * [视频语义分割基准数据集与评估方法](https://www.vcjmhg.top/dataset-for-video-segmentation)
 * [二分查找及其应用](https://www.vcjmhg.top/binary-search)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [deeplab v3+在pascal_voc 2012数据集上进行训练](https://www.vcjmhg.top/train-deeplabv3-puls-with-pascal-voc-2012)
 * [2020年8月下旬计划与安排](https://www.vcjmhg.top/2020-8-plan2)
 * [2020年8月上旬计划与安排](https://www.vcjmhg.top/2020-8-plan1)
-* [语义分割之deeplab v3+](https://www.vcjmhg.top/deeplabv3+)
 
 
 
