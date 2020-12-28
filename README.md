@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [标识多个物体并返回物体中心坐标方法的实现](https://www.vcjmhg.top/find-center-of-image)
 * [SkyWalking Agent端日志插件的编写历程与使用说明](https://www.vcjmhg.top/articles/2020/12/13/1607866509090.html)
 * [Docker三种文件系统总结](https://www.vcjmhg.top/thress-file-system-for-docker)
 * [回溯法套路总结与应用](https://www.vcjmhg.top/backtracing)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [sunday算法解决字符串匹配问题](https://www.vcjmhg.top/sunday)
 * [leetcode第28题实现strStr()](https://www.vcjmhg.top/leetcode-28)
 * [2020年9月上旬计划与安排](https://www.vcjmhg.top/2020-9-plan1)
-* [dccker-maven插件出现"Failed to execute goal com.spotifydocker-maven-plugin0.4.13build....java.io.IOException Permission denied"错误](https://www.vcjmhg.top/solve-docker-maven-permission-deny)
 
 
 
