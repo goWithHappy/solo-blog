@@ -25,11 +25,11 @@ vcjmhg 的个人博客
 * [2020年10月下旬计划与安排](https://www.vcjmhg.top/2020-10-plan2)
 * [链表问题一些常用的套路与方法](https://www.vcjmhg.top/some-methods-of-linklist)
 * [如何编写一个SkyWalking 插件](https://www.vcjmhg.top/how-to-develop-a-plugin-for-skywalking)
-* [2020年10月上旬计划安排](https://www.vcjmhg.top/2020-10-plan1)
 * [解决fcitx输入法在Intellij IDEA开发工具中输入法候选框无法跟随光标移动的问题](https://www.vcjmhg.top/fcitx-not-work-in-idea)
 * [使用deeplabv3+训练自己数据集（迁移学习）](https://www.vcjmhg.top/train-own-data-wtih-deeplav3plus)
 * [sunday算法解决字符串匹配问题](https://www.vcjmhg.top/sunday)
 * [leetcode第28题实现strStr()](https://www.vcjmhg.top/leetcode-28)
+* [dccker-maven插件出现"Failed to execute goal com.spotifydocker-maven-plugin0.4.13build....java.io.IOException Permission denied"错误](https://www.vcjmhg.top/solve-docker-maven-permission-deny)
 
 
 
