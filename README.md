@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [使用归并排序思想解决逆序对数量问题](https://www.vcjmhg.top/merge-sort)
 * [从生命周期的角度看线程和进程之间的异同](https://www.vcjmhg.top/difference-with-process-and-thread)
 * [标识多个物体并返回物体中心坐标方法的实现](https://www.vcjmhg.top/find-center-of-image)
 * [SkyWalking Agent端日志插件的编写历程与使用说明](https://www.vcjmhg.top/articles/2020/12/13/1607866509090.html)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [使用deeplabv3+训练自己数据集（迁移学习）](https://www.vcjmhg.top/train-own-data-wtih-deeplav3plus)
 * [sunday算法解决字符串匹配问题](https://www.vcjmhg.top/sunday)
 * [leetcode第28题实现strStr()](https://www.vcjmhg.top/leetcode-28)
-* [dccker-maven插件出现"Failed to execute goal com.spotifydocker-maven-plugin0.4.13build....java.io.IOException Permission denied"错误](https://www.vcjmhg.top/solve-docker-maven-permission-deny)
 
 
 
