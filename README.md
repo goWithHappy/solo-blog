@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [类加载器及其加载原理](https://www.vcjmhg.top/what-is-a-Java-ClassLoader)
 * [类的加载流程](https://www.vcjmhg.top/how-to-load-a-class)
 * [垃圾回收算法原理及其应用](https://www.vcjmhg.top/the-use-of-gc)
 * [手写LRU缓存淘汰算法](https://www.vcjmhg.top/how-write-lru)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [2020年10月下旬计划与安排](https://www.vcjmhg.top/2020-10-plan2)
 * [链表问题一些常用的套路与方法](https://www.vcjmhg.top/some-methods-of-linklist)
 * [如何编写一个SkyWalking 插件](https://www.vcjmhg.top/how-to-develop-a-plugin-for-skywalking)
-* [解决fcitx输入法在Intellij IDEA开发工具中输入法候选框无法跟随光标移动的问题](https://www.vcjmhg.top/fcitx-not-work-in-idea)
 
 
 
