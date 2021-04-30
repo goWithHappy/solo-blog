@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [回溯算法解决子集、组合和排列问题](https://www.vcjmhg.top/solve-subset-permutation-combination)
 * [Java对象的创建过程](https://www.vcjmhg.top/how-about-object-in-java)
 * [Java运行时内存区域如何划分？](https://www.vcjmhg.top/how-to-devide-java-memory)
 * [Class文件结构分析](https://www.vcjmhg.top/the-content-of-class)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [二分查找及其应用](https://www.vcjmhg.top/binary-search)
 * [常见的位操作及其应用](https://www.vcjmhg.top/bit-operation)
 * [二叉树遍历的常用方法](https://www.vcjmhg.top/biTree-traverse)
-* [BFS与DFS套路总结](https://www.vcjmhg.top/dfs-bfs)
 
 
 
