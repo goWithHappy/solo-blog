@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [Java并发知识梳理](https://www.vcjmhg.top/how-to-learn-concurrency)
 * [java方法在java虚拟机中的执行过程](https://www.vcjmhg.top/how-to-execute-method-in-jvm)
 * [回溯算法解决子集、组合和排列问题](https://www.vcjmhg.top/solve-subset-permutation-combination)
 * [Java对象的创建过程](https://www.vcjmhg.top/how-about-object-in-java)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [贪心算法原理及其应用](https://www.vcjmhg.top/greedy-algorithm)
 * [视频语义分割基准数据集与评估方法](https://www.vcjmhg.top/dataset-for-video-segmentation)
 * [二分查找及其应用](https://www.vcjmhg.top/binary-search)
-* [常见的位操作及其应用](https://www.vcjmhg.top/bit-operation)
 
 
 
