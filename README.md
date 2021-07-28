@@ -10,6 +10,8 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [Copy-on-Write模式](https://www.vcjmhg.top/copy-on-write)
+* [零拷贝的原理](https://www.vcjmhg.top/zero-copy)
 * [synchronized的原理及应用](https://www.vcjmhg.top/how-to-use-synchronized)
 * [Java内存模型及其原理](https://www.vcjmhg.top/java-memory-model)
 * [Java并发知识梳理](https://www.vcjmhg.top/how-to-learn-concurrency)
@@ -28,8 +30,6 @@ vcjmhg 的个人博客
 * [SkyWalking Agent端日志插件的编写历程与使用说明](https://www.vcjmhg.top/articles/2020/12/13/1607866509090.html)
 * [Docker三种文件系统总结](https://www.vcjmhg.top/thress-file-system-for-docker)
 * [回溯法套路总结与应用](https://www.vcjmhg.top/backtracing)
-* [滑动窗口常用技巧总结](https://www.vcjmhg.top/slide-window)
-* [贪心算法原理及其应用](https://www.vcjmhg.top/greedy-algorithm)
 
 
 
