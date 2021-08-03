@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [Atomic原子类的使用及其原理](https://www.vcjmhg.top/how-to-use-automic-class)
 * [Kafka的核心原理](https://www.vcjmhg.top/principle-of-kafka)
 * [线程池使用与原理](https://www.vcjmhg.top/how-to-use-thread-pool-executor)
 * [Copy-on-Write模式](https://www.vcjmhg.top/copy-on-write)
@@ -29,7 +30,6 @@ vcjmhg 的个人博客
 * [使用归并排序思想解决逆序对数量问题](https://www.vcjmhg.top/merge-sort)
 * [从生命周期的角度看线程和进程之间的异同](https://www.vcjmhg.top/difference-with-process-and-thread)
 * [标识多个物体并返回物体中心坐标方法的实现](https://www.vcjmhg.top/find-center-of-image)
-* [SkyWalking Agent端日志插件的编写历程与使用说明](https://www.vcjmhg.top/articles/2020/12/13/1607866509090.html)
 
 
 
